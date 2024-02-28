@@ -1,40 +1,27 @@
-# Hi there! 👋 I'm Yabesh Raj
+Yabesh Raj - Data Analyst 👨‍💻📊
+Greetings! I'm Yabesh Raj, a passionate Data Analyst with a strong proficiency in Python, Pandas, Seaborn, Matplotlib, SQL, and Tableau. I am dedicated to leveraging data-driven insights for informed decision-making and thrive on creating impactful data visualizations. Recently, I successfully completed the Google Data Analytics Professional Certificate, enhancing my skills and knowledge in the field.
 
-![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-blue)
-![Python](https://img.shields.io/badge/Language-Python-brightgreen)
-![Pandas](https://img.shields.io/badge/Library-Pandas-orange)
-![Seaborn](https://img.shields.io/badge/Library-Seaborn-ff69b4)
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-red)
-![SQL](https://img.shields.io/badge/Language-SQL-blueviolet)
-![Tableau](https://img.shields.io/badge/Tool-Tableau-informational)
-![Google Data Analytics Certified](https://img.shields.io/badge/Certification-Google%20Data%20Analytics-brightgreen)
+🔧 Technologies & Tools
+Languages: Python, SQL
+Libraries: Pandas, Seaborn, Matplotlib
+Visualization: Tableau
+Certification: Google Data Analytics Professional Certificate
+🚀 What I Do
+Analyzing data to extract meaningful insights.
+Crafting data visualizations for effective communication.
+Implementing data-driven strategies for decision-making.
+📊 Projects
+Sales Forecasting Dashboard: A Tableau dashboard predicting future sales trends.
+Customer Segmentation Analysis: Utilized Python and SQL for in-depth customer segmentation.
+Interactive Data Exploration: Developed interactive visualizations for exploratory data analysis.
+🌐 Connect with Me
+LinkedIn: Yabesh Raj
+Twitter: @yabesh_raj
+Portfolio: yabesh-raj.github.io
 
-## About Me
 
-I'm a fervent advocate for data-driven decision-making, always ready to craft impactful data visualizations. My proficiency lies in Python, Pandas, Seaborn, Matplotlib, SQL, and Tableau. Recently, I completed the Google Data Analytics Professional Certificate, solidifying my skills in the field.
+Let's transform raw data into meaningful insights! 🚀
 
-## Skills
 
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, Seaborn, Matplotlib
-- **Visualization:** Tableau
-- **Certification:** Google Data Analytics Professional Certificate
 
-## Education
 
-- Google Data Analytics Professional Certificate
-
-## Projects
-
-- **[Project Name 1]:** Brief description of the project and your role.
-- **[Project Name 2]:** Brief description of the project and your role.
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/yabeshraj/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=social&logo=github)](https://yabeshraj.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail)](mailto:your.email@example.com)
-
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's build insightful data stories together!
-
-Happy coding! 🚀
