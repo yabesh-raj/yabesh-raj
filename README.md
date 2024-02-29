@@ -20,7 +20,7 @@ A passionate Data Analyst with a strong proficiency in Python, Pandas, Seaborn, 
 ## Projects
 
 - **AMAZON PRIME VIDEO ANALYSIS FOR CONTENT STRATEGY ENHANCEMENT** 
-- **TOY SALES ANALYSIS USING PYTHON PANDAS**
+- **TOY SALES ANALYSIS USING SQL**
 
 ## Let's Connect!
 
