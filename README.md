@@ -21,6 +21,7 @@ A passionate Data Analyst with a strong proficiency in Python, Pandas, Seaborn, 
 
 - **AMAZON PRIME VIDEO ANALYSIS FOR CONTENT STRATEGY ENHANCEMENT** 
 - **TOY SALES ANALYSIS USING SQL**
+- **LOAN APPLICANT ANALYSIS IN INDIA USING TABLEAU**
 
 ## Let's Connect!
 
